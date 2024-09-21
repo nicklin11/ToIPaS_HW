@@ -1,5 +1,5 @@
 # Theory of Information Processes and Systems (ToIPaS)
-# Теория Информационных Процессов и Систем (ТиПиС)
+# Теория Информационных Процессов и Систем (ТИПиС)
   
 
 ### homework_1:
