@@ -1,5 +1,6 @@
-ToIPaS - Theory of Information Processes and Systems, 2024
-ТиПиС - Теория Информационных Процессов и Систем, 2024
+Theory of Information Processes and Systems (ToIPaS), 2024
+
+Теория Информационных Процессов и Систем (ТиПиС), 2024
 
 homework_1:
   Ответить на следубщие вопросы:
